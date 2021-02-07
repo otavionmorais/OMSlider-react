@@ -1,0 +1,22 @@
+{
+  "name": "omslider-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/otavionmorais/OMSlider-react.git"
+  },
+  "author": "Otávio Morais",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otavionmorais/OMSlider-react/issues"
+  },
+  "homepage": "https://github.com/otavionmorais/OMSlider-react#readme",
+  "dependencies": {
+    "react": "^17.0.1"
+  }
+}
